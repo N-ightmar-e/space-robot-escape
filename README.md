@@ -1,7 +1,1 @@
-# Space Robot Escape — WebGL
-
-A small Unity sci-fi base-escape game. Collect all keycards and escape before time runs out.
-
-Play in browser (GitHub Pages): see the repository **Pages** link.
-
-Built with Unity 6 (WebGL).
+## 20202476 박경준 _ 멀티미디어세미나 _ 기말과제
